@@ -28,7 +28,7 @@ description: 業務知識（用語・業務ルール・業務フロー）の dom
 ```
 .claude/skills/
   domain-<領域名>/        # 業務領域ごとに1つ（例: domain-order）
-    SKILL.md              # 概要とファイル案内
+    SKILL.md              # 概要と、他のファイルを読む場面の指示
     glossary.md           # 用語集
     rules.md              # 業務ルール
     flows.md              # 業務フロー
